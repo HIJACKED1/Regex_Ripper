@@ -27,7 +27,7 @@ chmod +x install.sh && ./install.sh
 
 ---
 
-## Usage
+## Validation
 
 ```bash
 python3 Regex_Ripper.py --url http://10.10.150.52/login.php --user pedro --cookie 'PHPSESSID=qkb3sb***********' --max-len 20
